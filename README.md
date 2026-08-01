@@ -8,20 +8,20 @@ I am a full-stack developer based in Chiapas, Mexico, with a strong focus on bui
 
 ## 🚀 What I'm Doing Now
 
-Deep-Diving: Mastering core JavaScript mechanics to architect highly efficient React applications.
+**Deep-Diving**: Mastering core JavaScript mechanics to architect highly efficient React applications.
 
-Building: Developing cross-platform solutions and interactive Single Page Applications (SPAs).
+**Building**: Developing cross-platform solutions and interactive Single Page Applications (SPAs).
 
-Exploring: Self-hosting infrastructure, local LLMs, and custom server data architectures.
+**Exploring**: Self-hosting infrastructure, local LLMs, and custom server data architectures.
 
 ## 💻 Tech Stack
 
-Frontend & Mobile:
+**Frontend & Mobile:**
 
 * JavaScript / TypeScript
 * React / React Native
 
-Backend & Database:
+**Backend & Database:**
 
 * Node
 * Express / Fastify
@@ -31,8 +31,8 @@ Backend & Database:
 
 I am currently open to new remote opportunities.
 
-💼 LinkedIn: in/alexalemanhdz
+* **💼 LinkedIn**: [in/alexalemanhdz](https://www.linkedin.com/in/alexalemanhdz/)
 
-💻 HackerRank: kuro_neko_xyz
+* **💻 HackerRank**: [kuro_neko_xyz](https://www.hackerrank.com/profile/kuro_neko_xyz)
 
 *Open to Remote Roles | Based in Chiapas, MX (CST)*
