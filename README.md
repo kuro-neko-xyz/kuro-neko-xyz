@@ -1,6 +1,6 @@
 # Hi, I'm Alejandro Alemán Hernández 👋
 
-*Software Developer | Translating complex logic into elegant, scalable systems. 🐲*
+*Software Developer* | *Translating complex logic into elegant, scalable systems.* 🐲
 
 I am a full-stack developer based in Chiapas, Mexico, with a strong focus on building performant web and mobile applications. I enjoy the intersection of clean architecture and user-facing impact. Whether I'm configuring self-hosted environments for local LLMs or writing highly efficient component architecture, I build systems that are robust, indexable, and scalable.
 
