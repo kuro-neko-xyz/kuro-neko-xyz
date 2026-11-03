@@ -17,7 +17,7 @@ I've spent 7+ years building web applications. For the last 4+ I've worked full-
 
 | Project | What it is | Stack |
 | --- | --- | --- |
-| [visualizer.travel](https://github.com/kuro-neko-xyz/visualizer.travel) | An app to visualize your trips, with its own API | TypeScript, React, Node.js |
+| [visualizer.travel](https://github.com/kuro-neko-xyz/visualizer.travel) | Trip-planning mobile app: flights, stays and a time-zone-aware itinerary, with airport search served from PostgreSQL. Works offline; headed to the App Store and Google Play | React Native (Expo), TypeScript, Fastify, PostgreSQL |
 | [persistent-screen-time](https://github.com/kuro-neko-xyz/persistent-screen-time) | Builds a database of your screen time: app, API and shared code | TypeScript, Node.js |
 
 ### Stack
