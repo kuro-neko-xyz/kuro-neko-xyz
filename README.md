@@ -1,38 +1,33 @@
-# Hi, I'm Alejandro Alemán Hernández 👋
+# Hi, I'm Alejandro 👋
 
-*Software Developer* | *Translating complex logic into elegant, scalable systems.* 🐲
+**Senior full-stack engineer** · React · TypeScript · Node.js · PostgreSQL · AWS
+Remote from Chiapas, Mexico · Works US hours (Central time)
 
-I am a full-stack developer based in Chiapas, Mexico, with a strong focus on building performant web and mobile applications. I enjoy the intersection of clean architecture and user-facing impact. Whether I'm configuring self-hosted environments for local LLMs or writing highly efficient component architecture, I build systems that are robust, indexable, and scalable.
+I've spent 7+ years building web applications. For the last 4+ I've worked full-time with a US client, a leading global automaker, on their US shopping website, from the React front-end to the Node.js services behind it.
 
-*"Mirando los colores irrecuperables del cielo."*
+### Highlights
 
-## 🚀 What I'm Doing Now
+- **80% fewer calls** to internal APIs by caching their responses on AWS
+- **Content management tool** (Node.js, Fastify, PostgreSQL) that lets regional dealer associations publish offers to shoppers
+- **Test coverage from 20% to 50%**, together with my team, using Jest
+- **React PWA, built solo**, that laid the groundwork for a retail app with **100,000+ downloads** on Google Play
+- Interfaces and statistical visualizations for **facial-recognition systems** used by security clients
 
-**Deep-Diving**: Mastering core JavaScript mechanics to architect highly efficient React applications.
+### Projects
 
-**Building**: Developing cross-platform solutions and interactive Single Page Applications (SPAs).
+| Project | What it is | Stack |
+| --- | --- | --- |
+| [visualizer.travel](https://github.com/kuro-neko-xyz/visualizer.travel) | An app to visualize your trips, with its own API | TypeScript, React, Node.js |
+| [persistent-screen-time](https://github.com/kuro-neko-xyz/persistent-screen-time) | Builds a database of your screen time: app, API and shared code | TypeScript, Node.js |
 
-**Exploring**: Self-hosting infrastructure, local LLMs, and custom server data architectures.
+### Stack
 
-## 💻 Tech Stack
+TypeScript · JavaScript · React · React Native · Redux · Node.js · Express · Fastify · PostgreSQL · AWS (EC2, Lambda, S3) · Jest · GitHub Actions · Vite
 
-**Frontend & Mobile:**
+### Lately
 
-* JavaScript / TypeScript
-* React / React Native
+Exploring self-hosted infrastructure and running LLMs locally.
 
-**Backend & Database:**
+### Contact
 
-* Node
-* Express / Fastify
-* PostgreSQL
-
-## 📬 Let's Connect
-
-I am currently open to new remote opportunities.
-
-* **💼 LinkedIn**: [in/alexalemanhdz](https://www.linkedin.com/in/alexalemanhdz/)
-
-* **💻 HackerRank**: [kuro_neko_xyz](https://www.hackerrank.com/profile/kuro_neko_xyz)
-
-*Open to Remote Roles | Based in Chiapas, MX (CST)*
+[LinkedIn](https://www.linkedin.com/in/alexalemanhdz) · [a.aleman.h@icloud.com](mailto:a.aleman.h@icloud.com)
